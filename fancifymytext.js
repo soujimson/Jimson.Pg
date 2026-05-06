@@ -1,5 +1,5 @@
 function alertButton() {
-  alert("Hello, world!");
+  document.getElementById("textarea1").style.fontSize= "24pt";
+  //alert("Hello, world!");
 }
 
-fancifymytext.html.getElementById("textarea").font.size = "24pt";
